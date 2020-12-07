@@ -1,0 +1,14 @@
+#main2{
+    background: url("images/bg-img.jpg") rgba(34 22 220/82%);
+    height: 450px;
+    background-size: cover;
+    background-blend-mode: multiply;
+    
+    
+}
+#container-div{
+    background-color:rgb(34, 53, 93) ;
+}
+.p1{
+    margin-left: 60px;
+}
